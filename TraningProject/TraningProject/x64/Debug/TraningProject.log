@@ -1,0 +1,16 @@
+﻿  Proga.cpp
+  DecStr.cpp
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(56,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(79,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(105,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(129,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(149,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(175,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\DecStr.cpp(198,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  IdentStr.cpp
+C:\Users\stepa\source\repos\TraningProject\TraningProject\IdentStr.cpp(11,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  String.cpp
+C:\Users\stepa\source\repos\TraningProject\TraningProject\String.cpp(25,13): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\stepa\source\repos\TraningProject\TraningProject\String.cpp(39,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  TraningProject.vcxproj -> C:\Users\stepa\source\repos\TraningProject\x64\Debug\TraningProject.exe
