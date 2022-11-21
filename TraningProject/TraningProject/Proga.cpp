@@ -11,6 +11,9 @@ int main()
 	//לגלגלûגגלûגלûגלûגל
 	//ûגלûגלûגלûגלûגלûגלû
 	//ûגלûגלûגלûגלûגלûגל
+	//sdfsdfsdfsdfsdfsdfsd
+	//sdfsdfsdfsdfsdfsdfsd
+	//sdfsdfsdfsdfsdfsdfsdf
 
 	setlocale(LC_ALL, "Russian");
 
